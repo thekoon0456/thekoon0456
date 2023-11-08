@@ -1,4 +1,3 @@
-# thkoon0456
 
 ## Skills
 <p>
