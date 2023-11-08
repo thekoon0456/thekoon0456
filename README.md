@@ -5,11 +5,11 @@
 <br>
 
 ## Projects
-- ### 날씨의 i ([AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705) / [ReadMe](https://github.com/thekoon0456/WeatherI_Refactor)) <br>
+- ### 날씨의 i ( [ReadMe](https://github.com/thekoon0456/WeatherI_Refactor)  /  [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
 사용자가 설정한 시간에 나만의 기상캐스터가 날씨를 알려주고, 바탕화면에 위젯을 추가할 수 있는 날씨 앱
 
-- ### 부트캠핑 ([AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705) / [ReadMe](https://github.com/thekoon0456/BootCamping_Refactor)) <br>
+- ### 부트캠핑 ([ReadMe](https://github.com/thekoon0456/BootCamping_Refactor)  /  [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
 캠핑장 정보와 위치를 제공하고, 사용자가 다녀온 캠핑장을 공유하는 SNS 앱 <br>
 
-- ### 콕콕 ([ReadMe](https://github.com/thekoon0456/CokCok_Refactor)) <br>
+- ### 콕콕 ([ReadMe](https://github.com/thekoon0456/CokCok_Refactor))
 사용자가 원하는 취향에 맞는 칵테일을 추천해주고, 정보를 저장해주는 칵테일 앱 <br>
