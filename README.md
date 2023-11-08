@@ -3,8 +3,8 @@
 <p>
 <img src="https://img.shields.io/badge/iOS-181717?style=for-the-badge&logo=Apple&logoColor=Black"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=Swift&logoColor=blue"/>
-<img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=UIKit&logoColor=#2396F3"/> <br>
+<img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=UIKit&logoColor=#2396F3"/>
+<img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=Swift&logoColor=blue"/> <br>
   
 <img src="https://img.shields.io/badge/Combine-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> 
 <img src="https://img.shields.io/badge/RxSwift-fa4db3?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
