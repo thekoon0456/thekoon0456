@@ -6,11 +6,9 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=UIKit&logoColor=#2396F3"/>
 <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=Swift&logoColor=blue"/> <br>
-<br>
 - <img src="https://img.shields.io/badge/Combine-F05138?style=for-the-badge&logo=Swift&logoColor=white"/> 
 <img src="https://img.shields.io/badge/RxSwift-fa4db3?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=181717"/> <br>
-<br>
 - <img src="https://img.shields.io/badge/SPM-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=CocoaPods&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
