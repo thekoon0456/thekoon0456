@@ -6,11 +6,11 @@
 ## Projects
 - ### 날씨의 i ([ReadMe](https://github.com/thekoon0456/WeatherI_Refactor) / [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
 사용자가 설정한 시간에 나만의 기상캐스터가 날씨를 알려주고, 바탕화면에 위젯을 추가할 수 있는 날씨 앱 <br>
-<div align="center"> <img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/505bc0b2-cfff-4875-98d5-b5f4f4c56f55" width="600"> </div>
+<div align="center"> <img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/505bc0b2-cfff-4875-98d5-b5f4f4c56f55" width="800"> </div>
 
 - ### 부트캠핑 ([ReadMe](https://github.com/thekoon0456/BootCamping_Refactor) / [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
 캠핑장 정보와 위치를 제공하고, 사용자가 다녀온 캠핑장을 공유하는 SNS 앱 <br>
-<div align="center"> <img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/eeb84302-5b15-4b76-975c-da6677992a29" width="600"> </div>
+<div align="center"> <img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/eeb84302-5b15-4b76-975c-da6677992a29" width="800"> </div>
   
 - ### 콕콕 ([ReadMe](https://github.com/thekoon0456/CokCok_Refactor))
 사용자가 원하는 취향에 맞는 칵테일을 추천해주고, 정보를 저장해주는 칵테일 앱 <br>
