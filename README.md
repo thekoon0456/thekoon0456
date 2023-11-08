@@ -4,9 +4,12 @@
 - <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <br>
 <br>
 
-##Projects
-- 날씨의 i
+## Projects
+- 날씨의 i (ReadMe)
+사용자가 설정한 시간에 나만의 기상캐스터가 날씨를 알려주고, 바탕화면에 위젯을 추가할 수 있는 날씨 앱
 
-- 부트캠핑
+- 부트캠핑 (ReadMe)
+캠핑장 정보와 위치를 제공하고, 사용자가 다녀온 캠핑장을 공유하는 SNS 앱
 
-- 콕콕
+- 콕콕 (ReadMe)
+사용자가 원하는 취향에 맞는 칵테일을 추천해주고, 정보를 저장해주는 칵테일 앱
