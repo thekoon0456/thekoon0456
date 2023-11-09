@@ -6,6 +6,7 @@
 ## Projects
 - ### 날씨의 i ([ReadMe](https://github.com/thekoon0456/WeatherI_Refactor) / [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
    사용자가 설정한 시간에 나만의 기상캐스터가 날씨를 알려주고, 바탕화면에 위젯을 추가할 수 있는 날씨 앱 <br>
+   UIKit, MVVM, WidgetKit, NotificationContentsExtension,CoreLocation, realm, SnapKit, Lottie
 <div align="center"> <img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/c4dc7382-d605-47d9-9b38-d9354a6de922" width="800"> </div>
 
 - ### 부트캠핑 ([ReadMe](https://github.com/thekoon0456/BootCamping_Refactor) / [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
