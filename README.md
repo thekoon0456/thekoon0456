@@ -21,7 +21,7 @@
 <br>
   
 - ### 콕콕 ([ReadMe](https://github.com/thekoon0456/CokCok_Refactor))
-   - 사용자가 원하는 취향에 맞는 칵테일을 추천해주고, 정보를 저장해주는 칵테일 앱 <br>
+   - 사용자가 원하는 취향에 맞는 칵테일을 추천해주고, 정보를 제공해주는 칵테일 앱 <br>
    - 키워드: SwiftUI, MVVM <br>
 <div align="center">
 <img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/d3b59be1-1bd3-43a3-a898-a250b75bfb80" width="800">
