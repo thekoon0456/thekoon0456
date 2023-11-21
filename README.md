@@ -16,7 +16,7 @@
 <br>
 
 - ### 부트캠핑 ([ReadMe](https://github.com/thekoon0456/BootCamping_Refactor) / [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
-   - 팀 프로젝트 (리더 / 6인)
+   - 팀 프로젝트 (리더 / 6명)
    - 캠핑장 정보와 위치를 제공하고, 사용자가 다녀온 캠핑장을 공유하는 SNS 앱 <br>
    - 키워드: SwiftUI, MVVM, Combine, MapKit, Firebase, SDWebImage, Lottie <br>
 <div align="center">
@@ -25,6 +25,7 @@
 <br>
   
 - ### 콕콕 ([ReadMe](https://github.com/thekoon0456/CokCok_Refactor))
+   - 팀 프로젝트 (리더 / 7명)
    - 사용자가 원하는 취향에 맞는 칵테일을 추천해주고, 정보를 제공해주는 칵테일 앱 <br>
    - 키워드: SwiftUI, MVVM <br>
 <div align="center">
