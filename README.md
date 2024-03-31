@@ -8,7 +8,7 @@
 ## Projects
 - ### LilsMusic ([ReadMe](https://github.com/thekoon0456/LilsMusic) / [AppStore](https://apps.apple.com/app/lilsmusic/id6480001911))
    - 개인 프로젝트
-   - AppleMusic과 연동해 개인 맞춤화된 음악 추천, 음악과 뮤직비디오 감상, 마음에 드는 곡 플레이리스트 저장할 수 있는 앱 <br>
+   - AppleMusic과 연동해 개인 맞춤화된 음악 추천, 음악과 뮤직비디오 감상, 마음에 드는 곡을 플레이리스트로 저장할 수 있는 앱 <br>
    - 키워드: UIKit, MVVM-C, RxSwift, MusicKit, AVKit, SwiftConcurrency, ModernCollectionView, Realm, Snapkit <br>
 <div align="center">
 <img src="https://github.com/thekoon0456/LilsMusic/assets/106993057/a7ac5491-9d34-4c2b-b2b2-c032fe5f28a2" width="800">
