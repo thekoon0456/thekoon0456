@@ -15,7 +15,7 @@
 </div>
 <br>
 
-- ### 어라운드풋볼 
+- ### 어라운드풋볼 ([ReadMe](https://github.com/thekoon0456/LilsMusic) / [AppStore](https://apps.apple.com/app/lilsmusic/id6480001911))
    - 팀 프로젝트 (3인)
    - 내 주변 풋살 용병 커뮤니티. 게시글, 지도, 실시간 채팅을 지원하는 앱. <br>
    - 키워드: UIKit, MVVM-C, RxSwift, Firebase(FireStore, Storage, Messaging, Authentication, Analytics, Crashlytics), KakaoMap, MessegeKit, Snapkit <br>
@@ -24,12 +24,12 @@
 </div>
 <br>
 
-- ### BeatCoin 
+- ### BeatCoin ([ReadMe](https://github.com/thekoon0456/BeatCoin)
    - 개인 프로젝트
    - 실시간 코인 현황 조회와 즐겨찾기 저장, 차트로 한눈에 부는 코인 동향. <br>
    - 키워드: UIKit, MVVM-C, Alamofire, CustomObservable, DGCharts, Realm, Kingfisher, SnapKit <br>
 <div align="center">
-<img src="https://github.com/thekoon0456/BeatCoin/assets/106993057/4583afdd-d70c-47cf-8059-b8f2b5e2f55e" width="800">
+<img src="https://github.com/thekoon0456/BeatCoin/assets/106993057/f6f65d59-4ff4-4438-8ad8-b07821345022" width="800">
 </div>
 <br>
 
