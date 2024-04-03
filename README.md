@@ -17,7 +17,7 @@
 
 - ### 어라운드풋볼 
    - 팀 프로젝트 (3인)
-   - AppleMusic과 연동해 개인 맞춤화된 음악 추천, 음악과 뮤직비디오 감상, 마음에 드는 곡을 플레이리스트로 저장할 수 있는 앱 <br>
+   - 내 주변 풋살 용병 커뮤니티. 게시글, 지도, 실시간 채팅을 지원하는 앱. <br>
    - 키워드: UIKit, MVVM-C, RxSwift, Firebase(FireStore, Storage, Messaging, Authentication, Analytics, Crashlytics), KakaoMap, MessegeKit, Snapkit <br>
 <div align="center">
 <img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/c393a4e4-d2fd-4492-84d2-cb87f9906a47" width="800">
