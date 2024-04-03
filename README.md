@@ -24,6 +24,15 @@
 </div>
 <br>
 
+- ### BeatCoin 
+   - 개인 프로젝트
+   - 실시간 코인 현황 조회와 즐겨찾기 저장, 차트로 한눈에 부는 코인 동향. <br>
+   - 키워드: UIKit, MVVM-C, Alamofire, CustomObservable, DGCharts, Realm, Kingfisher, SnapKit <br>
+<div align="center">
+<img src="https://github.com/thekoon0456/BeatCoin/assets/106993057/4583afdd-d70c-47cf-8059-b8f2b5e2f55e" width="800">
+</div>
+<br>
+
 - ### 날씨의 i ([ReadMe](https://github.com/thekoon0456/WeatherI_Refactor) / [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
    - 개인 프로젝트
    - 사용자가 설정한 시간에 나만의 기상캐스터가 날씨를 알려주고, 바탕화면에 위젯을 추가할 수 있는 날씨 앱 <br>
