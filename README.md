@@ -26,7 +26,7 @@
 
 - ### BeatCoin ([ReadMe](https://github.com/thekoon0456/BeatCoin)
    - 개인 프로젝트
-   - 실시간 코인 현황 조회와 즐겨찾기 저장, 차트로 한눈에 부는 코인 동향. <br>
+   - 실시간 코인 현황 조회와 즐겨찾기 저장, 차트로 한눈에 보는 코인 동향 <br>
    - 키워드: UIKit, MVVM-C, Alamofire, CustomObservable, DGCharts, Realm, Kingfisher, SnapKit <br>
 <div align="center">
 <img src="https://github.com/thekoon0456/BeatCoin/assets/106993057/f6f65d59-4ff4-4438-8ad8-b07821345022" width="800">
