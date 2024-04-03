@@ -15,6 +15,15 @@
 </div>
 <br>
 
+- ### 어라운드풋볼 
+   - 팀 프로젝트 (3인)
+   - AppleMusic과 연동해 개인 맞춤화된 음악 추천, 음악과 뮤직비디오 감상, 마음에 드는 곡을 플레이리스트로 저장할 수 있는 앱 <br>
+   - 키워드: UIKit, MVVM-C, RxSwift, Firebase, SocialLogin, KakaoMap, MessegeKit, Snapkit <br>
+<div align="center">
+<img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/c393a4e4-d2fd-4492-84d2-cb87f9906a47" width="800">
+</div>
+<br>
+
 - ### 날씨의 i ([ReadMe](https://github.com/thekoon0456/WeatherI_Refactor) / [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
    - 개인 프로젝트
    - 사용자가 설정한 시간에 나만의 기상캐스터가 날씨를 알려주고, 바탕화면에 위젯을 추가할 수 있는 날씨 앱 <br>
