@@ -9,7 +9,7 @@
 - ### LilsMusic ([ReadMe](https://github.com/thekoon0456/LilsMusic) / [AppStore](https://apps.apple.com/app/lilsmusic/id6480001911))
    - 개인 프로젝트
    - AppleMusic과 연동해 개인 맞춤화된 음악 추천, 음악과 뮤직비디오 감상, 마음에 드는 곡을 플레이리스트로 저장할 수 있는 앱 <br>
-   - 키워드: UIKit, MVVM-C, RxSwift, MusicKit, AVKit, SwiftConcurrency, ModernCollectionView, Realm, Snapkit <br>
+   - 키워드: UIKit, MVVM-C, RxSwift, MusicKit, AVKit, SwiftConcurrency, ModernCollectionView, Realm, Firebase(Analytics, Crashlytics), Snapkit <br>
 <div align="center">
 <img src="https://github.com/thekoon0456/LilsMusic/assets/106993057/a7ac5491-9d34-4c2b-b2b2-c032fe5f28a2" width="800">
 </div>
@@ -18,7 +18,7 @@
 - ### 어라운드풋볼 
    - 팀 프로젝트 (3인)
    - AppleMusic과 연동해 개인 맞춤화된 음악 추천, 음악과 뮤직비디오 감상, 마음에 드는 곡을 플레이리스트로 저장할 수 있는 앱 <br>
-   - 키워드: UIKit, MVVM-C, RxSwift, Firebase, SocialLogin, KakaoMap, MessegeKit, Snapkit <br>
+   - 키워드: UIKit, MVVM-C, RxSwift, Firebase(FireStore, Storage, Messaging, Authentication, Analytics, Crashlytics), KakaoMap, MessegeKit, Snapkit <br>
 <div align="center">
 <img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/c393a4e4-d2fd-4492-84d2-cb87f9906a47" width="800">
 </div>
