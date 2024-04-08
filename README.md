@@ -11,7 +11,7 @@
    - AppleMusic과 연동해 개인 맞춤화된 음악 추천, 음악과 뮤직비디오 감상, 마음에 드는 곡을 플레이리스트로 저장할 수 있는 앱 <br>
    - 키워드: UIKit, MVVM-C, RxSwift, MusicKit, AVKit, SwiftConcurrency, ModernCollectionView, Realm, Firebase(Analytics, Crashlytics), Snapkit <br>
 <div align="center">
-<img src="https://github.com/thekoon0456/LilsMusic/assets/106993057/a7ac5491-9d34-4c2b-b2b2-c032fe5f28a2" width="800">
+<img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/5dbecb88-5865-497e-9a5a-3dc32d9738cf" width="800">
 </div>
 <br>
 
