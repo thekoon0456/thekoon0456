@@ -38,7 +38,7 @@
    - 사용자가 설정한 시간에 나만의 기상캐스터가 날씨를 알려주고, 바탕화면에 위젯을 추가할 수 있는 날씨 앱 <br>
    - 키워드: UIKit, MVVM, WidgetKit, NotificationContentsExtension, CoreLocation, GCD, 기상청API, realm, SnapKit, Lottie <br>
 <div align="center">
-<img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/c4dc7382-d605-47d9-9b38-d9354a6de922" width="800">
+<img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/636578d0-2fba-43ca-b0cc-a89c3b51ce1a" width="800">
 </div>
 <br>
 
@@ -47,7 +47,6 @@
    - 캠핑장 정보와 위치를 제공하고, 사용자가 다녀온 캠핑장을 공유하는 SNS 앱 <br>
    - 키워드: SwiftUI, MVVM, Combine, MapKit, Firebase, SDWebImage, Lottie <br>
 <div align="center">
-<img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/eeb84302-5b15-4b76-975c-da6677992a29" width="800">
+<img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/384273d9-b9de-4e1b-851e-c2f3a1b6d944" width="800">
 </div>
 <br>
-   
