@@ -15,7 +15,7 @@
 </div>
 <br>
 
-- ### 어라운드풋볼 ([ReadMe](https://github.com/thekoon0456/LilsMusic) / [AppStore](https://apps.apple.com/app/lilsmusic/id6480001911))
+- ### 어라운드풋볼 ([ReadMe](https://github.com/Around-Football/Around-Football) / [AppStore](https://apps.apple.com/app/lilsmusic/id6480001911))
    - 팀 프로젝트 (3인)
    - 내 주변 풋살 용병 커뮤니티. 게시글, 지도, 실시간 채팅을 지원하는 앱. <br>
    - 키워드: UIKit, MVVM-C, RxSwift, Firebase(FireStore, Storage, Messaging, Authentication, Analytics, Crashlytics), KakaoMap, MessegeKit, Snapkit <br>
