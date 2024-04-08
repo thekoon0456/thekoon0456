@@ -20,7 +20,7 @@
    - 내 주변 풋살 용병 커뮤니티. 게시글, 지도, 실시간 채팅을 지원하는 앱. <br>
    - 키워드: UIKit, MVVM-C, RxSwift, Firebase(FireStore, Storage, Messaging, Authentication, Analytics, Crashlytics), KakaoMap, MessegeKit, Snapkit <br>
 <div align="center">
-<img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/8e773006-967f-42ed-b213-2d3ab50bc9b4" width="800">
+<img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/9b8c13d7-3a1b-4b74-9242-acd101bf041e" width="800">
 </div>
 <br>
 
