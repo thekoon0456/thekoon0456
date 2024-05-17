@@ -73,7 +73,7 @@
 <br>
 
 - ### 부트캠핑 ([ReadMe](https://github.com/thekoon0456/BootCamping_Refactor) / [AppStore](https://apps.apple.com/kr/app/bottles-%EB%B0%94%ED%8B%80%EC%A6%88/id1671470705))
-   - 팀 프로젝트 (리더 / 6명)
+   - 팀 프로젝트 (팀 리더 /  iOS 6명)
    - 캠핑장 정보와 위치를 제공하고, 사용자가 다녀온 캠핑장을 공유하는 SNS 앱 <br>
    - Skills
       - SwiftUI, MVVM
