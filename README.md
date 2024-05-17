@@ -15,6 +15,7 @@
       - MapKit, CoreLocation, MessageUI
       - CompositionalLayout, CollectionViewPagingLayout, DiffableDataSource,
       - Kingfisher, SnapKit, IQKeyboardManagerSwift
+<div align="center">
 <img src="https://github.com/thekoon0456/SangGaBangGa/assets/106993057/8761197e-b0a0-4da2-a83a-52e355014b54" width="800">
 </div>
 <br>
