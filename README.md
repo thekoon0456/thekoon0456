@@ -10,7 +10,7 @@
    - 개인 프로젝트
    - 공인중개사 경험을 바탕으로 만든 상가 전문 부동산 중개 앱 <br>
    - Skills
-      - UIKit, MVVM-C, Input-Output, Singleton, Repository, CodeBasedUI
+      - UIKit, Clean-Architecture, Input-Output, Singleton, CodeBasedUI
       - RxSwift, RxMoya, NWPathMonitor, RxGesture ,iamport-ios
       - MapKit, CoreLocation, MessageUI
       - CompositionalLayout, CollectionViewPagingLayout, DiffableDataSource,
