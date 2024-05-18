@@ -28,8 +28,7 @@
       - RxSwift, SwiftConcurrency
       - MusicKit, AVFoundation, AVKit, Realm
       - Compositional Layout, CollectionViewPagingLayout, DiffableDataSource,
-      - Kingfisher, SnapKit
-      - Firebase(Analytics, Crashlytics)
+      - Kingfisher, SnapKit, Firebase(Analytics, Crashlytics)
 <div align="center">
 <img src="https://github.com/thekoon0456/thekoon0456/assets/106993057/5dbecb88-5865-497e-9a5a-3dc32d9738cf" width="800">
 </div>
