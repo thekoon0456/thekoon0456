@@ -36,7 +36,7 @@
 
 - ### 어라운드풋볼 ([ReadMe](https://github.com/Around-Football/Around-Football))
    - 팀 프로젝트 (3인)
-   - 내 주변 풋살 용병 커뮤니티. 게시글, 지도, 실시간 채팅을 지원하는 앱. <br>
+   - 내 주변 풋살 용병 커뮤니티. 게시글, 지도, 실시간 채팅을 지원하는 앱 <br>
    - Skills
       - UIKit, MVVM-C, Input-Output, Singleton, CodeBasedUI
       - RxSwift, RxAlamofire, RxDataSource
