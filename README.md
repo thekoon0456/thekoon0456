@@ -11,7 +11,7 @@
    - 공인중개사 경험을 바탕으로 만든 상가 전문 부동산 중개 앱 <br>
    - Skills
       - UIKit, Clean-Architecture, Input-Output, CodeBasedUI
-      - RxSwift, RxMoya, NWPathMonitor, RxGesture,iamport-ios
+      - RxSwift, RxMoya, RxGesture, NWPathMonitor
       - MapKit, CoreLocation, MessageUI
       - CompositionalLayout, CollectionViewPagingLayout, DiffableDataSource,
       - Kingfisher, SnapKit, IQKeyboardManagerSwift
